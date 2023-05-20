@@ -1,0 +1,2 @@
+./enigme/ql.png ./enigme/rep1l.png ./enigme/rep2l.png ./enigme/rep3l.png 3 ./enigme/rep11l.png ./enigme/rep22l.png ./enigme/rep33l.png ./enigme/img/l21.png ./enigme/img/l22.png ./enigme/img/l23.png
+./enigme/qma.png ./enigme/rep1ma.png ./enigme/rep2ma.png ./enigme/rep3ma.png 1 ./enigme/rep11ma.png ./enigme/rep22ma.png ./enigme/rep33ma.png ./enigme/vide.png ./enigme/vide.png ./enigme/vide.png

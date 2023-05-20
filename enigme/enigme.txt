@@ -1,0 +1,2 @@
+./enigme/qpy.png ./enigme/rep1py.png ./enigme/rep2py.png ./enigme/rep3py.png 2 ./enigme/rep11py.png ./enigme/rep22py.png ./enigme/rep33py.png ./enigme/img/pyrep1.png ./enigme/img/pyrep2.png ./enigme/img/pyrep3.png
+./enigme/qha.png ./enigme/rep1ha.png ./enigme/rep2ha.png ./enigme/rep3ha.png 3 ./enigme/rep11ha.png ./enigme/rep22ha.png ./enigme/rep33ha.png ./enigme/img/harep1.png ./enigme/img/harep2.png ./enigme/img/harep3.png
